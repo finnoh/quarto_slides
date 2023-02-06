@@ -8,10 +8,11 @@ format: beamer
 aspectratio: 169
 incremental: true
 include-in-header: beamer_preamble.tex
+bibliography: references.bib
 ---
 
 ```{r, eval=TRUE, echo=FALSE}
-source(main.r)
+suppressMessages(source("main.r")) 
 ```
 
 ## Getting up
