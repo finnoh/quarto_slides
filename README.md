@@ -8,3 +8,4 @@
 - references.bib: Bibtex file for references
 
 For reference on `quarto`, see e.g. this article https://www.ds-econ.com/quarto/
+Also, see the documentation https://quarto.org/docs/reference/formats/presentations/beamer.html
