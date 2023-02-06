@@ -1,0 +1,47 @@
+---
+title: "Habits"
+subtitle:  Subtitle
+author: "John Doe"
+institute: "Your University"
+date: "22-01-2022"
+format: beamer
+aspectratio: 169
+incremental: true
+include-in-header: beamer_preamble.tex
+---
+
+```{r, eval=TRUE, echo=FALSE}
+source(main.r)
+```
+
+## Getting up
+
+- Turn off alarm
+- Get out of bed
+
+## Going to sleep
+
+- Get in bed
+- Count sheep
+
+---
+
+- Turn off alarm
+- Get out of bed
+
+## Multiple cols
+:::: {.columns}
+
+::: {.column width="33%"}
+contents...
+:::
+
+::: {.column width="33%"}
+contents...
+:::
+
+::: {.column width="33%"}
+contents...
+:::
+
+::::
