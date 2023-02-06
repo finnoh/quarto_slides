@@ -9,6 +9,11 @@ aspectratio: 169
 incremental: true
 include-in-header: beamer_preamble.tex
 bibliography: references.bib
+fig-align: center
+fig-cap-location: bottom
+fig-format: pdf
+links-as-notes: true
+number-depth: 1
 ---
 
 ```{r, eval=TRUE, echo=FALSE}
