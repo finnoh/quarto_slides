@@ -3,7 +3,8 @@ title: "Habits"
 subtitle:  Subtitle
 author: "John Doe"
 institute: "Your University"
-date: "22-01-2022"
+date: today
+date-format: long
 format: beamer
 aspectratio: 169
 incremental: false
